@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { Text, StyleSheet, View, ScrollView,KeyboardAvoidingView,TouchableOpacity } from 'react-native'
 import LoginForm from './LoginForm';
-//
+
 export default class Login extends Component {
     render() {
         return (
